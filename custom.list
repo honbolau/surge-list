@@ -1,4 +1,4 @@
-PROCESS-NAME,NeteaseMusic
+PROCESS-NAME,NeteaseMusic //网易云音乐
 DOMAIN-SUFFIX,talk.igexin.com //个推
 DOMAIN-KEYWORD,umeng //友盟
 DOMAIN-SUFFIX,talk.gepush.com //个推
